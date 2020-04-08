@@ -29,3 +29,21 @@ when the download completes, you simple run the following command in your termin
 
 
 
+
+
+# Participate
+
+## building
+
+      python3 setup.py clean --all sdist bdist_wheel 
+
+## Installing locally 
+
+      python3 setup.py clean --all install
+
+## Uploading to pypi
+
+      python3 -m twine upload dist/*
+
+Username: *__\_\_token\_\___*
+>For the actual token you need to be part of the project

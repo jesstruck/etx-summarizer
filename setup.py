@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="etx-sum", # Replace with your own username
-    version="0.0.2",
+    version="0.1.1",
     author="Jes Struck",
     author_email="mail@jesstruck.dk",
     description="ext-sum.py is intended to be a small utillity script that gives a few greate stats on your daytrading results",
