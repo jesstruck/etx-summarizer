@@ -1,0 +1,10 @@
+.csv
+dummy.csv
+dummy2.csv
+dummy3.csv
+.temp.csv
+build/bdist.macosx-10.14-x86_64
+build/lib
+dist/etx-sum-0.0.1.tar.gz
+dist/etx_sum-0.0.1-py3-none-any.whl
+etx_sum.egg-info
