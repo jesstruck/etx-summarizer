@@ -8,3 +8,6 @@ build/lib
 dist/etx-sum-0.0.1.tar.gz
 dist/etx_sum-0.0.1-py3-none-any.whl
 etx_sum.egg-info
+dist/etx-sum-0.0.2.tar.gz
+dist/etx_sum-0.0.2-py3-none-any.whl
+dist/etx_sum-0.0.2-py3.7.egg
