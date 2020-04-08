@@ -11,3 +11,7 @@ etx_sum.egg-info
 dist/etx-sum-0.0.2.tar.gz
 dist/etx_sum-0.0.2-py3-none-any.whl
 dist/etx_sum-0.0.2-py3.7.egg
+dist
+pycache
+etx/__pycache__
+etx/__pycache__/__init__.cpython-37.pyc

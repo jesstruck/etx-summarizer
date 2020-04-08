@@ -1,11 +1,12 @@
 import setuptools
+from etx import __version__
 
 with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
     name="etx-sum", # Replace with your own username
-    version="0.1.1",
+    version=__version__,
     author="Jes Struck",
     author_email="mail@jesstruck.dk",
     description="ext-sum.py is intended to be a small utillity script that gives a few greate stats on your daytrading results",
